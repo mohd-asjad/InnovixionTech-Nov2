@@ -1,0 +1,1 @@
+This is a contact management system where users can add, edit, and delete contacts. To design this project i used React for front-end development and Node.js for back-end development and MongoDb as a database.
